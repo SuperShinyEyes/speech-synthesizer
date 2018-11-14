@@ -1,0 +1,62 @@
+EST_File utterance
+DataType ascii
+version 2
+EST_Header_End
+Features max_id 25 ; type Text ; iform nil ; fileid nina_x1_001 ; 
+Stream_Items
+1 id _1 ; end 1 ; name IGNORE ; start F:standard+unisyn_start ; 
+2 id _2 ; end 1.02 ; name # ; start F:standard+unisyn_start ; 
+3 id _3 ; end 1.03 ; name B_10 ; start F:standard+unisyn_start ; 
+4 id _4 ; end 1.05 ; name # ; start F:standard+unisyn_start ; 
+5 id _5 ; end 1.07 ; name B_20 ; start F:standard+unisyn_start ; 
+6 id _6 ; end 1.09 ; name # ; start F:standard+unisyn_start ; 
+7 id _7 ; end 1.12 ; name B_30 ; start F:standard+unisyn_start ; 
+8 id _8 ; end 1.14 ; name # ; start F:standard+unisyn_start ; 
+9 id _9 ; end 1.18 ; name B_40 ; start F:standard+unisyn_start ; 
+10 id _10 ; end 1.2 ; name # ; start F:standard+unisyn_start ; 
+11 id _11 ; end 1.25 ; name B_50 ; start F:standard+unisyn_start ; 
+12 id _12 ; end 1.27 ; name # ; start F:standard+unisyn_start ; 
+13 id _13 ; end 1.37 ; name B_100 ; start F:standard+unisyn_start ; 
+14 id _14 ; end 1.39 ; name # ; start F:standard+unisyn_start ; 
+15 id _15 ; end 1.54 ; name B_150 ; start F:standard+unisyn_start ; 
+16 id _16 ; end 1.56 ; name # ; start F:standard+unisyn_start ; 
+17 id _17 ; end 1.76 ; name B_200 ; start F:standard+unisyn_start ; 
+18 id _18 ; end 1.78 ; name # ; start F:standard+unisyn_start ; 
+19 id _19 ; end 2.03 ; name B_250 ; start F:standard+unisyn_start ; 
+20 id _20 ; end 2.05 ; name # ; start F:standard+unisyn_start ; 
+21 id _21 ; end 2.35 ; name B_300 ; start F:standard+unisyn_start ; 
+22 id _22 ; end 2.37 ; name # ; start F:standard+unisyn_start ; 
+23 id _23 ; end 2.77 ; name B_400 ; start F:standard+unisyn_start ; 
+24 id _24 ; end 2.79 ; name # ; start F:standard+unisyn_start ; 
+25 id _25 ; end 5 ; name IGNORE ; start F:standard+unisyn_start ; 
+End_of_Stream_Items
+Relations
+Relation Segment ; filename lab/nina_x1_001.lab ; 
+25 25 0 0 0 24
+24 24 0 0 25 23
+23 23 0 0 24 22
+22 22 0 0 23 21
+21 21 0 0 22 20
+20 20 0 0 21 19
+19 19 0 0 20 18
+18 18 0 0 19 17
+17 17 0 0 18 16
+16 16 0 0 17 15
+15 15 0 0 16 14
+14 14 0 0 15 13
+13 13 0 0 14 12
+12 12 0 0 13 11
+11 11 0 0 12 10
+10 10 0 0 11 9
+9 9 0 0 10 8
+8 8 0 0 9 7
+7 7 0 0 8 6
+6 6 0 0 7 5
+5 5 0 0 6 4
+4 4 0 0 5 3
+3 3 0 0 4 2
+2 2 0 0 3 1
+1 1 0 0 2 0
+End_of_Relation
+End_of_Relations
+End_of_Utterance
